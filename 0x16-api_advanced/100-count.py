@@ -69,4 +69,4 @@ def count_words(subreddit, word_list):
             if item[1] is not 0:
                 print("{}: {}".format(item[0], item[1]))
     else:
-        print("") 
+        print("")
